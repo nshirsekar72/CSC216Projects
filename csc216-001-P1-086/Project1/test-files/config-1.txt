@@ -1,0 +1,4 @@
+FF0000 00FF00 0000FF  colors (must be in hex)
+8 7 4 starve
+2 6 10 breed
+ignore this line

@@ -1,0 +1,25 @@
+4
+O Great Gray Owl
+M Mouse
+F   Frog
+I  Insect
+..O.M.M.III...OM.MMM
+..MMI...MMMM...OIO..
+.M.O.......O..O..O..
+.OMMMM.IIIIIIIII.MM.
+.......F....F.......
+.OOMMMMIIIIMMMMOIM.O
+....II.....IIII.....
+..OO...III.MMMM.III.
+............IOO.III.
+.IIII......MMI......
+...F....FFF.........
+OMIOMIOMIOMIOMIOMIOM
+....................
+.OMIMIMIMIM.MIMI.O..
+IIMIOIIO....OO..II.M
+......IIII.MMM.OOOO.
+......MM....MM....M.
+.............O..F.I.
+OO.MMMMM...IIIIIIMMM
+MMIMIMIMIMIMIMIMIMIM
